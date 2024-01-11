@@ -8,7 +8,6 @@ import time
 from lxml import etree
 import numpy as np
 import cv2
-from cv2 import VideoWriter, VideoWriter_fourcc
 
 
 
