@@ -1,2 +1,2 @@
 # GPX-visualization
-GPX visualization
+GPX track visualization.
